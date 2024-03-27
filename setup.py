@@ -17,7 +17,7 @@ LICENSE = 'MIT'
 # prerequisite: setuptools
 # http://pypi.python.org/pypi/setuptools
 
-REQUIRES = ['urllib3>=1.15,<1.26', 'six>=1.10', 'certifi', 'python-dateutil', 'pytz', 'requests>=2.22.0,<2.25.0']
+REQUIRES = ['urllib3>=1.15,<1.26', 'six>=1.10', 'certifi', 'python-dateutil', 'pytz', 'requests>=2.30.0']
 
 setup(
     name=NAME,
